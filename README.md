@@ -2,5 +2,5 @@
 
 TOC
 
-[1] Hello World
-[2] Quote Print
+[0] Hello World
+[1] Quote Print
