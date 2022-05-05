@@ -2,7 +2,6 @@
 
 TOC
 
-- [x] Hello World
-- [x] Quote Print
+- [x] Hello World & Quote Print
 - [x] Greetings
 - [x] Database Access
