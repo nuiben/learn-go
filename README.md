@@ -13,7 +13,7 @@ TOC
 
 This directory consists of several beginner projects using the Go programming language. The Hello World and Greetings projects were a way to get boots on the ground in the environment, while Database Access and RESTful API projects incorporate SQL and JSON to query data.
 
-## Optimizations
+## Optimizations:
 
 
 Some ways to optimize this are to further flesh out the database and make it unique. Adding user interface options so any person landing on this code can install the binaries and begin accessing the database also.
