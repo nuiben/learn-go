@@ -11,7 +11,7 @@ TOC
 
 **Tech used:** Golang, mySQL, Gin, JSON
 
-This directory consists of several beginner projects using the Go programming language. The Hello World and Greetings projects were a way to get boots on the ground in the environment, while Database Access and RESTful API projects incorporate SQL and JSON to querey data.
+This directory consists of several beginner projects using the Go programming language. The Hello World and Greetings projects were a way to get boots on the ground in the environment, while Database Access and RESTful API projects incorporate SQL and JSON to query data.
 
 ## Optimizations
 *(optional)*
