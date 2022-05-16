@@ -6,7 +6,9 @@ TOC
 - [x] Greetings
 - [x] Database Access
 - [x] RESTful API with Go and Gin
-- [ ] Generics
+- [x] Generics
+- [ ] Inputs
+- [ ] Web Application
 
 ## How It's Made:
 
