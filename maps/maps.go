@@ -1,3 +1,7 @@
+//Go by Example: Maps
+//<a href: https://gobyexample.com/maps></a>
+
+//Maps are a built-in associative data type (sometimes called hashes or dicts)
 package main
 
 import "fmt"
